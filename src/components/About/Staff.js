@@ -11,11 +11,6 @@ import React from "react";
 import alicia from "@/sensorsafrica/assets/images/team/Alicia.jpg";
 import augustine from "@/sensorsafrica/assets/images/team/augustine.jpg";
 import gideon from "@/sensorsafrica/assets/images/team/gideon.jpg";
-<<<<<<< HEAD
-//import kirah from "@/sensorsafrica/assets/images/team/kirah.jpeg";
-=======
-// import kirah from "@/sensorsafrica/assets/images/team/kirah.jpeg";
->>>>>>> 00068266a64323a5b099ba3e613a9c1fdbe36de6
 import usman from "@/sensorsafrica/assets/images/team/usman.jpeg";
 import Figure from "@/sensorsafrica/components/Figure";
 
@@ -102,39 +97,16 @@ function Staff(props) {
                 alicia.olago@codeforafrica.org
               </Typography>
               <Typography variant="subtitle1">
-<<<<<<< HEAD
-                <a className={classes.a} href="https://www.linkedin.com/in/aliciaolago/">
-=======
                 <a
                   className={classes.a}
                   href="https://www.linkedin.com/in/aliciaolago/"
                 >
->>>>>>> 00068266a64323a5b099ba3e613a9c1fdbe36de6
                   @Alicia Olago
                 </a>
               </Typography>
             </CardContent>
           </CardActionArea>
         </Card>
-
-        {/* <Card className={classes.card}>
-          <CardActionArea>
-            <Figure src={kirah} alt="Kirah" className={classes.cardMedia} />
-            <CardContent>
-              <Typography variant="h6" className={classes.h6}>
-                WARUKIRA THEURI
-              </Typography>
-              <Typography variant="subtitle1">
-                kirah@codeforafrica.org
-              </Typography>
-              <Typography variant="subtitle1">
-                <a className={classes.a} href="https://twitter.com/warukira_m">
-                  @warukira_m
-                </a>
-              </Typography>
-            </CardContent>
-          </CardActionArea>
-        </Card> */}
 
         <Card className={classes.card}>
           <CardActionArea>
@@ -173,14 +145,10 @@ function Staff(props) {
                 gideon@codeforafrica.org
               </Typography>
               <Typography variant="subtitle1">
-<<<<<<< HEAD
-                <a className={classes.a} href="https://www.linkedin.com/in/gideonmaina/">
-=======
                 <a
                   className={classes.a}
                   href="https://www.linkedin.com/in/gideonmaina/"
                 >
->>>>>>> 00068266a64323a5b099ba3e613a9c1fdbe36de6
                   @Gideon Maina
                 </a>
               </Typography>
@@ -199,14 +167,10 @@ function Staff(props) {
                 usman@codeforafrica.org
               </Typography>
               <Typography variant="subtitle1">
-<<<<<<< HEAD
-                <a className={classes.a} href="https://www.linkedin.com/in/usman-ahmed-343513187/">
-=======
                 <a
                   className={classes.a}
                   href="https://www.linkedin.com/in/usman-ahmed-343513187/"
                 >
->>>>>>> 00068266a64323a5b099ba3e613a9c1fdbe36de6
                   @Usman Ahmed
                 </a>
               </Typography>
